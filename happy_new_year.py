@@ -1,3 +1,4 @@
+# https://blog.finxter.com/how-to-fix-error-no-module-named-opengl/
 # Импортируем все необходимые библиотеки:
 from OpenGL.GL import *
 from OpenGL.GLU import *
