@@ -1,3 +1,4 @@
+# https://habr.com/ru/articles/247123/
 # -*- coding: utf-8 -*-
 # Импортируем все необходимые библиотеки:
 from OpenGL.GL import *
